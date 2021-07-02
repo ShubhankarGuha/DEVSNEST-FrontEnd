@@ -1,0 +1,29 @@
+body{
+    background-color: white;
+    color: cornflowerblue;
+}
+
+.main{
+    border: 15px solid blue;
+    padding: 1rem 4rem 5rem 4rem;
+}
+.profile{
+    width: 60px;
+    height: 60px;
+    margin: -80px 0px 0px 260px;
+    border-radius: 70px;
+    border: solid chocolate;
+    position: relative;
+    top: -18px;
+}
+.part1{
+    border-right: 3px solid chocolate;
+    margin: 0px 25rem 0px 0px;
+    padding: 0px 1.2px 0px 0px;
+
+}
+.part2{
+
+    margin: -400px 0px 0px 30rem;
+    
+}
